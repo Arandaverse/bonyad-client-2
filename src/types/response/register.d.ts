@@ -1,0 +1,3 @@
+interface RegisterResponse {
+  accessToken: string;
+}
